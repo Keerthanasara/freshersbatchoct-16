@@ -2,7 +2,7 @@
 <head> Javascript Events</head>  
 <body>  
 <h2> Enter something here</h2>  
-<input type="text" id="input1" onfocus="focusevent()"/>  
+<input type="text" onfocus="focusevent()"/>  
 <script>  
 <!--  
     function focusevent()  
